@@ -74,7 +74,7 @@ const Footer = () => {
                   Mobile No: +91 7666186905 <br />
                   Email:
                   <Link href="mailto:svcindustries@gmail.com">
-                    svcindustries@gmail.com
+                    svcindustries2019@gmail.com
                   </Link>
                 </Typography>
               </CardContent>
